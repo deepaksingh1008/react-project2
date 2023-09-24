@@ -38,14 +38,14 @@ const Footer = () => {
        <Heading size={'md'} textTransform={'uppercase'}>
         Social Media
       </Heading>
-      <Button variant={'link'} colorScheme={"whiteAlpha"}>
-        <a target='blank' href='https://youtube.com/6packprogrammer'>Youtube</a>
+      <Button padding={'5'} variant={'link'} colorScheme={"whiteAlpha"}>
+        <a target='blank' href='https://youtu.be/46B5w8ZQYDA?si=y6ONmbSlsA_s0ZJG'>Youtube</a>
       </Button>
       <Button variant={'link'} colorScheme={"whiteAlpha"}>
-        <a target={'blank'} href='https://instagram.com/6packprogrammer'>Instagram</a>
+        <a target={'blank'} href='https://www.instagram.com/deepak.singh.8906/'>Instagram</a>
       </Button>
       <Button variant={'link'} colorScheme={"whiteAlpha"}>
-        <a target={'blank'} href='https://github.com/6packprogrammer'>GitHub</a>
+        <a target={'blank'} href='https://github.com/deepaksingh1008'>GitHub</a>
       </Button>
        </Stack>
   </Box>
